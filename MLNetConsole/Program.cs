@@ -6,7 +6,7 @@ namespace MLNetConsole
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Exemplo01.Exemplo01.Execute();
         }
     }
 }
