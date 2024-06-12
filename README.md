@@ -1,3 +1,3 @@
-<h1>Machine Learning apps using ML.Net</h1>
+<h1>Machine Learning</h1>
 
-<p>Criando Machine Learnong coom .NET</p>
+<p>Criando Machine Learnong com C# .NET 3.1 com a biblioteca ML.Net</h1></p>
